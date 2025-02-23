@@ -1,2 +1,5 @@
+Websites were referenced for Modeling:
+https://www.geeksforgeeks.org/multinomial-naive-bayes/
+https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html
 https://www.geeksforgeeks.org/latent-dirichlet-allocation/
 https://www.geeksforgeeks.org/topic-modeling-using-latent-dirichlet-allocation-lda/
