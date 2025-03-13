@@ -1,5 +1,6 @@
 # DSC-288-Capstone
 This GitHub is a collection of our work throughout this quarter.
+<br />All notebooks can be run in Google Colab after uploading the required dataset.
 
 The Team Contract and Project Abstract are self-explanatory.
 
@@ -16,4 +17,6 @@ The Team Contract and Project Abstract are self-explanatory.
 
 "Milestone 4: Final Report" contains the most up to date models used in our final report:
 <br />&nbsp;&nbsp;"DSC_288_MultinomialNB_Final" and "DSC_288_Latent_Dirichlet_Allocation_Final" have extra metrics added and some new plots compared to previous iterations.
-<br />&nbsp;&nbsp;"DSC_288_Application" is a barebones attempt at creating a recommendation tool. After adding the dataset, one could type into the question variable and receive a couple mental health website recommendations.
+<br />&nbsp;&nbsp;&nbsp;&nbsp;The LDA model may take upwards of 30 minutes to run.
+<br />&nbsp;&nbsp;"DSC_288_Application" is a barebones attempt at creating a recommendation tool.
+<br />&nbsp;&nbsp;&nbsp;&nbsp;After adding the dataset, one could type into the question variable and receive a couple mental health website recommendations.
