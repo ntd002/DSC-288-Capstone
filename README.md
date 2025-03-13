@@ -9,11 +9,11 @@ The Team Contract and Project Abstract are self-explanatory.
 <br />&nbsp;&nbsp;"Step 3: Initial Modeling" includes an early Multinomial Naive Bayes model, Exploratory Data Analysis, and our 1st Progress Report.
 
 "Milestone 3: 2nd Progress Report" includes:
-<br />  "DSC_288_MultinomialNB_Optimization" notebook which is a more up to date and optimized model.
-<br />  "DSC_288_Latent_Dirichlet_Allocation" notebook which is the attempt to use LDA modeling.
-<br />  The PDF version of the 2nd Progress Report powerpoint.
-<br />  -The video had issues uploading onto GitHub.
+<br />&nbsp;&nbsp;"DSC_288_MultinomialNB_Optimization" notebook which is a more up to date and optimized model.
+<br />&nbsp;&nbsp;"DSC_288_Latent_Dirichlet_Allocation" notebook which is the attempt to use LDA modeling.
+<br />&nbsp;&nbsp;The PDF version of the 2nd Progress Report powerpoint.
+<br />&nbsp;&nbsp;-The video had issues uploading onto GitHub.
 
 "Milestone 4: Final Report" contains the most up to date models used in our final report:
-<br />  "DSC_288_MultinomialNB_Final" and "DSC_288_Latent_Dirichlet_Allocation_Final" have extra metrics added and some new plots compared to previous iterations.
-<br />  "DSC_288_Application" is a barebones attempt at creating a recommendation tool. After adding the dataset, one could type into the question variable and receive a couple mental health website recommendations.
+<br />&nbsp;&nbsp;"DSC_288_MultinomialNB_Final" and "DSC_288_Latent_Dirichlet_Allocation_Final" have extra metrics added and some new plots compared to previous iterations.
+<br />&nbsp;&nbsp;"DSC_288_Application" is a barebones attempt at creating a recommendation tool. After adding the dataset, one could type into the question variable and receive a couple mental health website recommendations.
