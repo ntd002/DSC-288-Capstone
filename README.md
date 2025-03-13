@@ -4,9 +4,9 @@ This GitHub is a collection of our work throughout this quarter.
 The Team Contract and Project Abstract are self-explanatory.
 
 "Milestone 2: 1st Progress Report" contains all coding related to that including:
-<br />  "Step 1: Scraping Reddit" includes code for accessing Reddit's API and assembling the raw dataset.
-<br />  "Step 2: Preprocessing Data" includes code for preprocessing the raw data into a dataset we would use from here on out.
-<br />  "Step 3: Initial Modeling" includes an early Multinomial Naive Bayes model, Exploratory Data Analysis, and our 1st Progress Report.
+<br />&nbsp;&nbsp;"Step 1: Scraping Reddit" includes code for accessing Reddit's API and assembling the raw dataset.
+<br />&nbsp;&nbsp;"Step 2: Preprocessing Data" includes code for preprocessing the raw data into a dataset we would use from here on out.
+<br />&nbsp;&nbsp;"Step 3: Initial Modeling" includes an early Multinomial Naive Bayes model, Exploratory Data Analysis, and our 1st Progress Report.
 
 "Milestone 3: 2nd Progress Report" includes:
 <br />  "DSC_288_MultinomialNB_Optimization" notebook which is a more up to date and optimized model.
