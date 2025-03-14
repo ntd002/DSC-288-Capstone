@@ -4,6 +4,12 @@ This GitHub is a collection of our work throughout this quarter.
 
 The Team Contract and Project Abstract are self-explanatory.
 
+## Abstract
+In seeking to identify core mental health topics within Reddit posts via classification into key treatment or support domains, we aim to pave the way for future systems that recommend mental health resources. We scraped and preprocessed a dataset of 12,951 Reddit posts and implemented two primary models: Multinomial Naïve Bayes (MultiNB) for classification and Latent Dirichlet Allocation (LDA) for topic modeling. Our results showed that MultiNB with both title and body text provided the highest accuracy, while LDA abstracted topics but was not useful for classification. We explored hyperparameter tuning, common word removal, and model evaluation, concluding that optimizing MultiNB significantly improved performance while LDA was less effective. Future work could incorporate more advanced NLP models and applications for connecting users to tailored resources.
+
+
+
+## Milestones and Materials
 "Milestone 2: 1st Progress Report" contains all coding related to that including:
 <br />&nbsp;&nbsp;&nbsp;-"Step 1: Scraping Reddit" includes code for accessing Reddit's API and assembling the raw dataset.
 <br />&nbsp;&nbsp;&nbsp;-"Step 2: Preprocessing Data" includes code for preprocessing the raw data into a dataset we would use from here on out.
