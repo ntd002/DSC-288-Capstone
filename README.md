@@ -1,7 +1,7 @@
 # DSC-288-Capstone
 This GitHub is a collection of our work throughout this quarter.
 
-** Usagee Note**
+**Usage Note**
 - All notebooks can be run in Google Colab after uploading the required dataset.
 - The LDA model may take upwards of 30 minutes to run.** 
 
