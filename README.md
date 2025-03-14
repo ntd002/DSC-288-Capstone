@@ -28,6 +28,4 @@ In seeking to identify core mental health topics within Reddit posts via classif
 ### M4
 "Milestone 4: Final Report" contains the most up to date models used in our final report:
 - "DSC_288_MultinomialNB_Final" and "DSC_288_Latent_Dirichlet_Allocation_Final" have extra metrics added and some new plots compared to previous iterations.
-- The LDA model may take upwards of 30 minutes to run.
-- "DSC_288_Application" is a barebones attempt at creating a recommendation tool.
-- After adding the dataset, one could type into the question variable and receive a couple mental health website recommendations.
+- "DSC_288_Application" is a barebones attempt at creating a recommendation tool. After adding the dataset, one could type into the question variable and receive a couple mental health website recommendations.
