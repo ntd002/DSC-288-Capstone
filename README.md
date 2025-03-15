@@ -5,11 +5,12 @@ This GitHub is a collection of our work throughout this quarter.
 - All notebooks can be run in Google Colab after uploading the required dataset.
 - The LDA model may take upwards of 30 minutes to run.** 
 
-## Abstract
-In seeking to identify core mental health topics within Reddit posts via classification into key treatment or support domains, we aim to pave the way for future systems that recommend mental health resources. We scraped and preprocessed a dataset of 12,951 Reddit posts and implemented two primary models: Multinomial Naïve Bayes (MultiNB) for classification and Latent Dirichlet Allocation (LDA) for topic modeling. Our results showed that MultiNB with both title and body text provided the highest accuracy, while LDA abstracted topics but was not useful for classification. We explored hyperparameter tuning, common word removal, and model evaluation, concluding that optimizing MultiNB significantly improved performance while LDA was less effective. Future work could incorporate more advanced NLP models and applications for connecting users to tailored resources.
+## Final Report: Abstract
+Identifying and categorizing mental health discussions on popular internet forums like Reddit can help improve accessibility to support resources and contribute to automated mental health assistance. This study applies machine learning techniques to classify Reddit posts into key mental health topics, facilitating potential future resource recommendation systems. We scraped and preprocessed a dataset of 12,951 Reddit posts, implementing two models: Multinomial Naïve Bayes (MultiNB) for classification and Latent Dirichlet Allocation (LDA) for topic modeling. Our results demonstrated that MultiNB, using both title and body text, achieved the highest classification accuracy, while LDA was ineffective for predefined topic classification. We also explored hyperparameter tuning and preprocessing techniques, which improved MultiNB’s performance by 14.1%. Despite promising results, limitations such as data bias, ethical concerns around misclassification should be considered. Future work should explore transformer-based models (e.g., BERT) and integrate classification outputs into practical mental health support applications.
 
 
-## Milestones and Materials
+
+## All Milestones and Materials
 - The Team Contract and Project Abstract are self-explanatory.
 
 ### M2
